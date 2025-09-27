@@ -9,9 +9,7 @@ Aarogya Sahayak is a comprehensive healthcare platform designed to bridge the ga
 ## ✨ Key Features
 
 ### 👥 User Portal
-- **Vitals Tracking**: Record and monitor blood pressure, blood sugar, weight, and other vital signs
-- **AI Health Assistant**: Get personalized health advice using Gemini AI
-- 
+- **
 - **Emergency Services**: Quick access to ambulances, hospitals, blood banks, and pharmacies
 
 ### 🏥 ASHA Worker Portal
